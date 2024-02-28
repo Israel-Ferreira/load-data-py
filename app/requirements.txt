@@ -1,0 +1,8 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+elastic-transport==8.12.0
+elasticsearch==7.13.4
+idna==3.6
+requests==2.31.0
+types-requests==2.31.0.20240218
+urllib3==1.26.18
